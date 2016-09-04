@@ -1,4 +1,4 @@
-# LocationTracker
+# Location Tracker
 
 Location Tracker lets user track their location. User can also switch between cities, currently San Franscisco and New York.
 
