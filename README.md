@@ -15,6 +15,7 @@ Instructions to run Location Tracker
 2. Run Pod Install to get the latest pods.
 3. Change the bundle identifier.
 4. Change the google api key in Info.plist file to your key.
+5. Use TestRoute.gpx file to simulate route from SFO to Union Square
 
 Pods Dependencies: GoogleMaps, Alamofire
 
