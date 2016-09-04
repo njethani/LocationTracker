@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GOTOES STRAVA TOOLS"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+    xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <metadata>
+        <link href="http://gotoes.org/strava/Add_Timestamps_To_GPX.php">
+            <text>GOTOES STRAVA TOOLS Used Date supplied by user</text>
+        </link>
+        <time>2016-09-03T20:15:23Z</time>
+    </metadata>
+    <wpt lon="-122.3993683" lat="37.6267405">
+        <time>2016-09-03T20:15:23Z</time>
+    </wpt>
+    <wpt lon="-122.4034882" lat="37.6376162">
+        <time>2016-09-03T20:15:24Z</time>
+    </wpt>
+    <wpt lon="-122.4041748" lat="37.6495777">
+        <time>2016-09-03T20:15:25Z</time>
+    </wpt>
+    <wpt lon="-122.4014282" lat="37.6599065">
+        <time>2016-09-03T20:15:26Z</time>
+    </wpt>
+    <wpt lon="-122.3931885" lat="37.6696904">
+        <time>2016-09-03T20:15:27Z</time>
+    </wpt>
+    <wpt lon="-122.3897552" lat="37.6816467">
+        <time>2016-09-03T20:15:28Z</time>
+    </wpt>
+    <wpt lon="-122.3918152" lat="37.6974043">
+        <time>2016-09-03T20:15:29Z</time>
+    </wpt>
+    <wpt lon="-122.3979950" lat="37.7153313">
+        <time>2016-09-03T20:15:30Z</time>
+    </wpt>
+    <wpt lon="-122.4028015" lat="37.7289095">
+        <time>2016-09-03T20:15:31Z</time>
+    </wpt>
+    <wpt lon="-122.4062347" lat="37.7419423">
+        <time>2016-09-03T20:15:32Z</time>
+    </wpt>
+    <wpt lon="-122.4048615" lat="37.7528011">
+        <time>2016-09-03T20:15:33Z</time>
+    </wpt>
+    <wpt lon="-122.4041748" lat="37.7642012">
+        <time>2016-09-03T20:15:34Z</time>
+    </wpt>
+    <wpt lon="-122.4131012" lat="37.7701720">
+        <time>2016-09-03T20:15:35Z</time>
+    </wpt>
+    <wpt lon="-122.4179077" lat="37.7766850">
+        <time>2016-09-03T20:15:36Z</time>
+    </wpt>
+    <wpt lon="-122.4220276" lat="37.7886240">
+        <time>2016-09-03T20:15:37Z</time>
+    </wpt>
+    <wpt lon="-122.4170494" lat="37.7893023">
+        <time>2016-09-03T20:15:38Z</time>
+    </wpt>
+    <wpt lon="-122.4148178" lat="37.7865891">
+        <time>2016-09-03T20:15:39Z</time>
+    </wpt>
+    <wpt lon="-122.4094963" lat="37.7869961">
+        <time>2016-09-03T20:15:40Z</time>
+    </wpt>
+</gpx>
